@@ -8,6 +8,7 @@ ln -sf ~/dotfiles/zsh/.zshrc ~/.zshrc
 ln -sf ~/dotfiles/zsh/.zshenv ~/.zshenv
 ln -sf ~/dotfiles/zsh/.zsh ~/.zsh
 ln -sf ~/dotfiles/starship/starship.toml ~/.config/starship.toml
+ln -sf ~/dotfiles/zsh-abbr/user-abbreviations ~/.config/zsh-abbr/user-abbreviations
 ```
 
 ## Secrets
