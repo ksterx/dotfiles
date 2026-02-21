@@ -1,0 +1,19 @@
+# Secrets / local overrides
+*.local
+.zshenv.local
+.env
+.env.*
+
+# API keys / credentials
+**/keys/
+**/credentials/
+*.pem
+*.key
+*.secret
+
+# History / sessions
+.zsh_history
+.zsh_sessions/
+
+# OS
+.DS_Store
